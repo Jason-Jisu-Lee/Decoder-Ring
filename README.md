@@ -25,3 +25,7 @@ When decoding the message, each pair of numbers is translated using the coordina
 The Substitution Cipher requires a standard alphabet and a substitution alphabet. Letters from the standard alphabet will be transposed to the standard alphabet.
 
 This cipher requires that the recipient have the substitution alphabet, otherwise it will be difficult to decode the message.
+
+Thank you for checking out my app :) <br />
+— Jason Lee<br />
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-jisu-lee)
